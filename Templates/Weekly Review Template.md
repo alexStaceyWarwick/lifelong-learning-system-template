@@ -2,7 +2,7 @@
 aliases:
 date: {{date}} {{time}}
 ---
-Tags: #weekly_review
+Tags: #weekly-review
 
 ## Goals
 `Copy/paste the table from the prior weekly.`

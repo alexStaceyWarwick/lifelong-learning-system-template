@@ -3,7 +3,7 @@ aliases:
 date: {{date}} {{time}}
 ---
 # {{date:YYYY-MM-DD}}
-Tags: #daily_note 
+Tags: #daily-note 
 
 ## Top Priorities
 `What are your top priorities today? Don't list more than three.`
