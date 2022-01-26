@@ -1,0 +1,2 @@
+# Lifelong Learning System Templates
+Welcome! This repository is a getting started kit for a lifelong learning system with Obsidian and Anki. See [tbd](https://www.jasongilbertson.com) for a detailed walkthrough and instructions on how to use.
