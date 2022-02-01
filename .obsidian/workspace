@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vocabulary Notes/202201251646 Nocebo.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary Notes/202201251646 Nocebo.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary Notes/202201251646 Nocebo.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary Notes/202201251646 Nocebo.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary Notes/202201251646 Nocebo.md"
+                "file": "README.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "5d84b132868346e9",
   "lastOpenFiles": [
+    "README.md",
     "Vocabulary Notes/202201251646 Nocebo.md",
     "Structure Notes/202112301003 The Science of Well-Being.md",
     "Meetings/202201311411 Jane 1x1.md",
@@ -172,7 +173,6 @@
     "Decisions/202201291306 Example decision.md",
     "Daily Notes/2022-01-31.md",
     "Atomic Notes/202201101401 Structure, or index, notes in a Zettelkasten create an entry point into a line of thought or topic.md",
-    "Atomic Notes/202112301012 The G.I. Joe Fallacy is the mistaken idea that knowing is half the battle.md",
-    "People/John Doe.md"
+    "Atomic Notes/202112301012 The G.I. Joe Fallacy is the mistaken idea that knowing is half the battle.md"
   ]
 }
