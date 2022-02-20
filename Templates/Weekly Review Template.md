@@ -4,6 +4,11 @@ date: {{date}} {{time}}
 ---
 Tags: #weekly-review
 
+See the [[202201180901 The weekly review is the cornerstone of the Getting Things Done system|weekly review in Getting Things Done]] for more information. For the week of {{date:YYYY-MM-DD}}.
+
+## Capture
+- Use `path:"Literature Notes" -section:(Comments)` to find all literature notes where you have not added a comments section.
+
 ## Goals
 `Copy/paste the table from the prior weekly.`
 
