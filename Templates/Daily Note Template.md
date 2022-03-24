@@ -5,6 +5,13 @@ date: {{date}} {{time}}
 # {{date:YYYY-MM-DD}}
 Tags: #daily-note 
 
+## Toggl Summary
+```toggl
+LIST
+FROM {{date:YYYY-MM-DD}} to {{date:YYYY-MM-DD}}
+GROUP BY project
+```
+
 ## Top Priorities
 `What are your top priorities today? Don't list more than three.`
 
