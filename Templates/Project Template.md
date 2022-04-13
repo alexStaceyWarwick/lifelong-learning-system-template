@@ -1,10 +1,12 @@
 ---
 aliases:
-date: {{date}} {{time}}
+tags:
+  - project
+date created: {{date}} {{time}}
+date modified: 
 ---
-# Project Name
-Tags: 
 
+# Project Name
 This design template helps you maximize success on your projects. The value of this template comes through going through the process, gathering feedback, exploring solutions, and adjusting as you learn.
 
 A word of caution—Be careful about confusing a filled-out document as going through the process effectively. 

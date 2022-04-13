@@ -1,8 +1,11 @@
 ---
 aliases:
-date: {{date}} {{time}}
+tags:
+date created: {{date}} {{time}}
+date modified: 
 ---
-Tags:
+
+# Title
 
 Body.
 

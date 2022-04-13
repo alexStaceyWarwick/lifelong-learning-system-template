@@ -1,8 +1,11 @@
 ---
 aliases:
-date: {{date}} {{time}}
+tags:
+date created: {{date}} {{time}}
+date modified: 
 ---
-Tags: #decision 
+
+# Decision
 
 ## Situation
 `What is the situation? What unique advantages or insights do I have in this situation?`

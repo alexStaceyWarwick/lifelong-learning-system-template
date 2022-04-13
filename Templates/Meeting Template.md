@@ -1,8 +1,14 @@
 ---
 aliases:
-date: {{date}} {{time}}
+tags:
+  - meeting
+  - 1x1
+  - networking
+date created: {{date}} {{time}}
+date modified: 
 ---
-Tags: #meeting #1x1 #networking 
+
+# Meeting
 
 ## Attendees
 Attendees include, but are not limited to, the following:

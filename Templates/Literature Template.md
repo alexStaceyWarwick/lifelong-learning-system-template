@@ -1,9 +1,11 @@
 ---
 aliases:
-date: {{date}} {{time}}
+tags:
+date created: {{date}} {{time}}
+date modified: 
 ---
+
 # Title
-Tags:
 
 ## Metadata
 - Author: 

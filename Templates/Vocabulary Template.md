@@ -1,8 +1,12 @@
 ---
 aliases:
-date: {{date}} {{time}}
+tags:
+  - vocabulary
+date created: {{date}} {{time}}
+date modified: 
 ---
-Tags: #vocabulary
+
+# Word
 
 TARGET DECK: General
 
