@@ -43,7 +43,7 @@ due before {{date:YYYY-MM-DD}}
 path does not include templates
 ```
 
-### Due today
+### Due Today
 
 ```tasks
 not done
@@ -51,7 +51,7 @@ due on {{date:YYYY-MM-DD}}
 path does not include templates
 ```
 
-### Due in the next two weeks
+### Due in the Next Two Weeks
 
 ```tasks
 not done
@@ -60,17 +60,27 @@ due before in two weeks from {{date:YYYY-MM-DD}}
 path does not include templates
 ```
 
-### Done today
+### Done Today
 
 ```tasks
 done on {{date:YYYY-MM-DD}}
 path does not include templates
 ```
 
-### No due date
+### No Due Date (Tasks)
 
 ```tasks
 not done
 no due date
 path does not include templates
+description does not include #gtd/rec 
+```
+
+### No Due Date (Recommendations)
+
+```tasks
+not done
+no due date
+path does not include templates
+description includes #gtd/rec 
 ```

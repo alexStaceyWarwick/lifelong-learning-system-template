@@ -4,7 +4,7 @@ tags:
   - weekly-review
 date created: {{date}} {{time}}
 date modified: 
-title:
+title: Weekly Review
 ---
 
 # Weekly Review
@@ -61,7 +61,7 @@ due before {{date:YYYY-MM-DD}}
 path does not include templates
 ```
 
-### Due today
+### Due Today
 
 ```tasks
 not done
@@ -69,7 +69,7 @@ due on {{date:YYYY-MM-DD}}
 path does not include templates
 ```
 
-### Due in the next two weeks
+### Due in the Next Two Weeks
 
 ```tasks
 not done
@@ -78,7 +78,7 @@ due before {{date+14d:YYYY-MM-DD}}
 path does not include templates
 ```
 
-### Done in the past two weeks
+### Done in the Past Two Weeks
 
 ```tasks
 done after {{date-14d:YYYY-MM-DD}}
@@ -86,11 +86,20 @@ done before {{date:YYYY-MM-DD}}
 path does not include templates
 ```
 
-### No due date
+### No Due Date (tasks)
 
 ```tasks
 not done
 no due date
 path does not include templates
-path does not include projects/202203231133 2022 Interview Study Plan for 50 hours per week
+description does not include #gtd/rec 
+```
+
+### No Due Date (recommendations)
+
+```tasks
+not done
+no due date
+path does not include templates
+description includes #gtd/rec 
 ```

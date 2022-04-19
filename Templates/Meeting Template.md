@@ -6,11 +6,13 @@ tags:
   - networking
 date created: {{date}} {{time}}
 date modified: 
+title: Meeting
 ---
 
 # Meeting
 
 ## Attendees
+
 Attendees include, but are not limited to, the following:
 - [[Jason Gilbertson]]
 
@@ -21,4 +23,3 @@ Attendees include, but are not limited to, the following:
 ## Next Steps
 
 ## Notes
-

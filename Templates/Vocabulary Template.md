@@ -4,6 +4,7 @@ tags:
   - vocabulary
 date created: {{date}} {{time}}
 date modified: 
+title: Word
 ---
 
 # Word
