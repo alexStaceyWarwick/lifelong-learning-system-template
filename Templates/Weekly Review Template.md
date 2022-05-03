@@ -1,9 +1,8 @@
 ---
 aliases:
-tags:
-  - weekly-review
-date created: {{date}} {{time}}
-date modified: 
+tags: weekly-review
+date_created: {{date}} {{time}}
+date_modified: 
 title: Weekly Review
 ---
 
@@ -86,16 +85,28 @@ done before {{date:YYYY-MM-DD}}
 path does not include templates
 ```
 
-### No Due Date (tasks)
+### Waiting For
 
 ```tasks
 not done
 no due date
 path does not include templates
-description does not include #gtd/rec 
+description includes #gtd/waiting  
 ```
 
-### No Due Date (recommendations)
+### No Due Date (Tasks)
+
+```tasks
+not done
+no due date
+path does not include templates
+path does not include projects/202201121253 Learning Plan
+path does not include structure notes/Career Opportunities Stages
+description does not include #gtd/rec 
+description does not include #gtd/waiting 
+```
+
+### No Due Date (Recommendations)
 
 ```tasks
 not done

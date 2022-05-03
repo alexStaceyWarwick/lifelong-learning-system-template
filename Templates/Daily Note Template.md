@@ -1,9 +1,8 @@
 ---
 aliases:
-tags:
-  - daily-note
-date created: {{date}} {{time}}
-date modified: 
+tags: daily-note
+date_created: {{date}} {{time}}
+date_modified: 
 title:
 ---
 
@@ -56,7 +55,7 @@ path does not include templates
 ```tasks
 not done
 due after {{date:YYYY-MM-DD}}
-due before in two weeks from {{date:YYYY-MM-DD}}
+due before {{date+14d:YYYY-MM-DD}}
 path does not include templates
 ```
 
@@ -67,13 +66,25 @@ done on {{date:YYYY-MM-DD}}
 path does not include templates
 ```
 
+### Waiting For
+
+```tasks
+not done
+no due date
+path does not include templates
+description includes #gtd/waiting  
+```
+
 ### No Due Date (Tasks)
 
 ```tasks
 not done
 no due date
 path does not include templates
+path does not include projects/202201121253 Learning Plan
+path does not include structure notes/Career Opportunities Stages
 description does not include #gtd/rec 
+description does not include #gtd/waiting 
 ```
 
 ### No Due Date (Recommendations)

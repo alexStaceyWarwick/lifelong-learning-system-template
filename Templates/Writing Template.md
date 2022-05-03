@@ -1,9 +1,8 @@
 ---
 aliases:
-tags:
-  - write
-date created: {{date}} {{time}}
-date modified: 
+tags: write
+date_created: {{date}} {{time}}
+date_modified: 
 title: Title
 ---
 

@@ -1,9 +1,8 @@
 ---
 aliases:
-tags:
-  - project
-date created: {{date}} {{time}}
-date modified: 
+tags: project
+date_created: {{date}} {{time}}
+date_modified: 
 title: Project Name
 ---
 

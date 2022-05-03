@@ -1,11 +1,8 @@
 ---
 aliases:
-tags:
-  - meeting
-  - 1x1
-  - networking
-date created: {{date}} {{time}}
-date modified: 
+tags: [meeting, 1x1, networking]
+date_created: {{date}} {{time}}
+date_modified: 
 title: Meeting
 ---
 

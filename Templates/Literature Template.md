@@ -1,8 +1,8 @@
 ---
 aliases:
 tags:
-date created: {{date}} {{time}}
-date modified: 
+date_created: {{date}} {{time}}
+date_modified: 
 ---
 
 # Title
