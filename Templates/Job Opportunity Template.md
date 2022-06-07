@@ -36,6 +36,10 @@ Other metadata for internal links. While it’s possible to have links in the fr
 - source::
 - referral::
 
+## Meetings
+
+- x
+
 ## Comments
 
 - x

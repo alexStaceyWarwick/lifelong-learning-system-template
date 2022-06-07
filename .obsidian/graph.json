@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-path:\"Daily Notes\" -path:\"Weekly Review\" -path:Templates  -file:\"Jason Gilbertson\" -path:Meetings -path:\"Literature Notes\" -path:\"Vocabulary Notes\"",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -74,6 +74,6 @@
   "repelStrength": 11.2686965811966,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15930173452205634,
+  "scale": 0.8628475771321847,
   "close": false
 }

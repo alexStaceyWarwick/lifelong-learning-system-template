@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5d84b132868346e9",
+        "id": "2abbbf31c28461a0",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -47,6 +47,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "43493e58a9c60a06",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -97,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9565f044f239c322",
@@ -162,17 +169,17 @@
     "direction": "horizontal",
     "width": 272
   },
-  "active": "5d84b132868346e9",
+  "active": "2abbbf31c28461a0",
   "lastOpenFiles": [
     "README.md",
     "Vocabulary Notes/202201251646 Nocebo.md",
-    "Structure Notes/202112301003 The Science of Well-Being.md",
-    "Meetings/202201311411 Jane 1x1.md",
-    "Weekly Review/2022-W06.md",
-    "Literature Notes/Books/How to Take Smart Notes.md",
-    "Decisions/202201291306 Example decision.md",
-    "Daily Notes/2022-01-31.md",
-    "Atomic Notes/202201101401 Structure, or index, notes in a Zettelkasten create an entry point into a line of thought or topic.md",
-    "Atomic Notes/202112301012 The G.I. Joe Fallacy is the mistaken idea that knowing is half the battle.md"
+    "Templates/Writing Template.md",
+    "Templates/Weekly Review Template.md",
+    "Templates/Vocabulary Template.md",
+    "Templates/Project Template.md",
+    "Templates/Meeting Template.md",
+    "Templates/Literature Template.md",
+    "Templates/Job Opportunity Template.md",
+    "Templates/Decision Template.md"
   ]
 }

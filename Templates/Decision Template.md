@@ -22,11 +22,11 @@ title: Decision
 
 ## Expectation
 
-`What do you expect to happen? Be specific with probabilities, if possible. Measuring your degree of confidence is vital for learning. Also, don't forget about opportunity costs of what else you could be doing.`
+`What do you expect to happen? Be specific with probabilities, if possible. Measuring your degree of confidence is vital for learning. Also, don't forget about the opportunity costs of what else you could be doing.`
 
 ## Thoughts
 
-`How you feel about the situation, both physically and even emotionally? For example, I feel tired. I feel good, or this stock is really draining me. Whatever you think.`
+`How do you feel about the situation, both physically and emotionally?`
 
 ## Alternatives
 
@@ -36,7 +36,7 @@ title: Decision
 
 ## Outcome
 
-`What actually happened? Create a task in this section to setup a time to revisit the decision.`
+`What actually happened? Create a task in this section to set up a time to revisit the decision.`
 
 ## Retrospective
 

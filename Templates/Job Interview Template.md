@@ -1,10 +1,9 @@
 ---
 aliases:
-tags: job-interview
+tags: [job-interview, meeting]
 date_created: {{date}} {{time}}
 date_modified: 
 title: Title
-interviewer:: 
 interview_date:: 
 role:: 
 ---
@@ -13,6 +12,7 @@ role::
 
 ## Interview Specific Preparation
 
+- interviewer:: 
 - round:: `The interview round or rounds for which you interviewed on this date. Use the stage from the job opportunity template.`
 
 ### Comments

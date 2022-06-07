@@ -12,7 +12,8 @@
   "obsidian-excalidraw-plugin",
   "note-refactor-obsidian",
   "table-editor-obsidian",
-  "obsidian-indentation-guides",
-  "key-promoter",
-  "obsidian-smart-typography"
+  "obsidian-smart-typography",
+  "obsidian-linter",
+  "dataview",
+  "obsidian-outliner"
 ]

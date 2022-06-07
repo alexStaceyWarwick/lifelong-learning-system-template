@@ -1,5 +1,6 @@
 {
   "link-date-to-daily-note": true,
   "date-picker-week-start": null,
-  "show-archive-all": true
+  "show-archive-all": true,
+  "prepend-archive-date": true
 }

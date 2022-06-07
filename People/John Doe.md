@@ -1,8 +1,15 @@
 ---
 aliases:
-date: 2022-01-29 13:26
+tags: person
+date_created: 2022-06-07 10:57
+date_modified: 2022-06-07 10:06
+title: John Doe
 ---
-Tags: #person 
+
+# John Doe
+
+date_last_contacted:: [[2022-06-06]]
 
 ## Comments
-- Married to [[Jane Doe]]
+
+- Married to [[Jane Doe]].

@@ -10,6 +10,8 @@
   "templates",
   "note-composer",
   "command-palette",
+  "editor-status",
+  "starred",
   "markdown-importer",
   "zk-prefixer",
   "random-note",

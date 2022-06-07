@@ -10,5 +10,10 @@
   "foldIndent": true,
   "showLineNumber": false,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheck": true,
+  "autoPairMarkdown": false,
+  "spellcheckDictionary": [
+    "Nocebo"
+  ]
 }

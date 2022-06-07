@@ -3,14 +3,14 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "folder": "Daily Notes",
+    "folder": "Reviews/Daily Notes",
     "template": "Templates/Daily Note Template",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "Templates/Weekly Review Template.md",
-    "folder": "Weekly Review",
+    "folder": "Reviews/Weekly Review",
     "enabled": true
   },
   "monthly": {
