@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Templates/Job Interview Template.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Job Interview Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Job Interview Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Job Interview Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/Job Interview Template.md"
               }
             }
           }
@@ -171,15 +171,15 @@
   },
   "active": "2abbbf31c28461a0",
   "lastOpenFiles": [
+    "Templates/Job Interview Template.md",
+    "Templates/General Note Template.md",
+    "Atomic Notes/202112301012 The G.I. Joe Fallacy is the mistaken idea that knowing is half the battle.md",
     "README.md",
     "Vocabulary Notes/202201251646 Nocebo.md",
     "Templates/Writing Template.md",
     "Templates/Weekly Review Template.md",
     "Templates/Vocabulary Template.md",
     "Templates/Project Template.md",
-    "Templates/Meeting Template.md",
-    "Templates/Literature Template.md",
-    "Templates/Job Opportunity Template.md",
-    "Templates/Decision Template.md"
+    "Templates/Meeting Template.md"
   ]
 }

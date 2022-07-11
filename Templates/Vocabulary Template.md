@@ -23,4 +23,5 @@ Tags: vocabulary
 
 END
 
-Source: [x].
+Sources:
+- [x]

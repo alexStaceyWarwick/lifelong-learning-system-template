@@ -3,11 +3,8 @@ aliases:
 tags: job
 date_created: {{date}} {{time}}
 date_modified: 
-title: Title
-job_title: 
-stage: 
-status: 
-last_contact_date: 
+title: Job Title
+job_title:  
 initial_contact_date: 
 first_interview_date:
 my_excitement: 
@@ -19,9 +16,12 @@ compensation:
   bonus:
   stock:
   sign-on: 
+stage: 
+status: [Open, Closed]
+last_contact_date:
 ---
 
-# Title
+# Job Title
 
 **summary**:: A one-sentence summary of the latest status.
 

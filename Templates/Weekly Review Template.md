@@ -8,45 +8,29 @@ title: Weekly Review
 
 # Weekly Review
 
-See the [[202201180901 The weekly review is the cornerstone of the Getting Things Done system|weekly review in Getting Things Done]] for more information. For the week of {{date:YYYY-MM-DD}}. You’ll need to manually update the dates in the Time section until Obsidian can handle datetime math.
+See the [[202201180901 The weekly review is the cornerstone of the Getting Things Done system|weekly review in Getting Things Done]] for more information. For the week of {{date:YYYY-MM-DD}}.
 
-## Time
-
-```toggl
-SUMMARY
-FROM {{date:YYYY-MM-DD}} to {{date:YYYY-MM-DD}}
-```
-
-## Goals
+## Metrics
 
 `Copy/paste the table from the prior weekly.`
 
 ## Project Update
 
-`Project status update.`
-Highlights:
-- Health:
-- Learn:
-- Network:
-- Personal:
-- Relax:
-- Work:
+Project status update. Highlights for the week grouped by how I track my time:
+- Health
+- Learn
+- Network
+- Personal
+- Relax
+- Work
 
 ## What Went Well
 
-`What went well this week?`
-
 ## What to Adjust
-
-`What should you adjust?`
 
 ## What to Stop
 
-`What behaviors and attitudes should you stop?`
-
-## Gratitude
-
-`What are you grateful for this week?`
+## Gratitude`
 
 ## Tasks
 
@@ -102,6 +86,7 @@ no due date
 path does not include templates
 path does not include projects/202201121253 Learning Plan
 path does not include projects/Career Opportunities Stages
+path does not include projects/Career Opportunities Board
 description does not include #gtd/rec 
 description does not include #gtd/waiting 
 ```

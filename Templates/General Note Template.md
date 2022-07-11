@@ -9,4 +9,5 @@ date_modified:
 
 Body.
 
-Source: [x].
+Sources: 
+- [x]

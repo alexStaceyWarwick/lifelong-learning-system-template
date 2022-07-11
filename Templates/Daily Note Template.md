@@ -3,34 +3,32 @@ aliases:
 tags: daily-note
 date_created: {{date}} {{time}}
 date_modified: 
-title:
+title: 
 ---
 
 # {{date:YYYY-MM-DD}}
 
-## Toggl Summary
+## Your Time
 
-```toggl
-LIST
-FROM {{date:YYYY-MM-DD}} to {{date:YYYY-MM-DD}}
-GROUP BY project
-```
+There are approximately 1,000 minutes in a 16-hour day. (Source: [Wait But Why](https://waitbutwhy.com/2016/10/100-blocks-day.html).) This breaks down into 100, 10-minute blocks. Ask yourself:
+- How many of these blocks are you putting towards making your future better, and how many of them are just to be enjoyed?
+- How many are used to create something, and how many are used to consume something?
+- How many of the blocks are focused on your body, how many on your mind, and how many on neither one in particular?
+- Which are your favorite blocks of the day, and which are your least favorite?
+- Which blocks should be treated as non-negotiable in their labeled purpose and which should be more flexible?
 
 ## Top Priorities
 
-`What are your top priorities today? Don't list more than three.`
-
-## Meeting Notes
-
-`Links to various meeting notes.`
-
-## Decisions
-
-`Links to various important decisions.`
+My top priorities today are:
+1. One
+2. Two
+3. Three
 
 ## Thoughts
 
-`Random thoughts and journaling. Try to write at least one paragraph every day.`
+## Meeting Notes
+
+## Decisions
 
 ## Tasks
 
@@ -83,6 +81,7 @@ no due date
 path does not include templates
 path does not include projects/202201121253 Learning Plan
 path does not include projects/Career Opportunities Stages
+path does not include projects/Career Opportunities Board
 description does not include #gtd/rec 
 description does not include #gtd/waiting 
 ```
