@@ -1,8 +1,8 @@
 ---
-aliases:
-tags: weekly-review
+aliases: 
 date_created: {{date}} {{time}}
 date_modified: 
+tags: weekly-review
 title: Weekly Review
 ---
 
@@ -16,13 +16,13 @@ See the [[202201180901 The weekly review is the cornerstone of the Getting Thing
 
 ## Project Update
 
-Project status update. Highlights for the week grouped by how I track my time:
-- Health
-- Learn
-- Network
-- Personal
-- Relax
-- Work
+Project status update. Highlights for the week, grouped by how I track my time:
+- **Health** (x% of time; y% vs. prior week; z% vs. target of a%)
+- **Learn** (x% of time; y% vs. prior week; z% vs. target of a%)
+- **Network** (x% of time; y% vs. prior week; z% vs. target of a%)
+- **Personal** (x% of time; y% vs. prior week; z% vs. target of a%)
+- **Relax** (x% of time; y% vs. prior week; z% vs. target of a%)
+- **Work** (x% of time; y% vs. prior week; z% vs. target of a%)
 
 ## What Went Well
 
@@ -30,7 +30,7 @@ Project status update. Highlights for the week grouped by how I track my time:
 
 ## What to Stop
 
-## Gratitude`
+## Gratitude
 
 ## Tasks
 
@@ -85,8 +85,8 @@ not done
 no due date
 path does not include templates
 path does not include projects/202201121253 Learning Plan
-path does not include projects/Career Opportunities Stages
-path does not include projects/Career Opportunities Board
+path does not include jobs/Career Opportunities Stages
+path does not include jobs/Career Opportunities Board
 description does not include #gtd/rec 
 description does not include #gtd/waiting 
 ```

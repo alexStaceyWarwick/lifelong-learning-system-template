@@ -1,8 +1,11 @@
 ---
-aliases:
-tags: [meeting, 1x1, networking]
+aliases: 
 date_created: {{date}} {{time}}
 date_modified: 
+tags:
+  - meeting
+  - 1x1
+  - networking
 title: Meeting
 ---
 
@@ -20,4 +23,3 @@ Attendees include, but are not limited to, the following:
 ## Next Steps
 
 ## Notes
-

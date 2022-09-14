@@ -1,10 +1,12 @@
 ---
-aliases:
-tags: [job-interview, meeting]
+aliases: 
 date_created: {{date}} {{time}}
 date_modified: 
+interview_date: 
+tags:
+  - job-interview
+  - meeting
 title: Title
-interview_date:: 
 ---
 
 # Title
@@ -13,7 +15,7 @@ interview_date::
 
 - role:: [[Job Opportunity Template]]
 - interviewer::
-- round:: [Preliminary Assessment, Recruiter Phone Screen, Technical Phone Screen, Take-Home Assessment, Onsite Interview]
+- round:: [Preliminary Assessment, Recruiter Phone Screen, Technical Phone Screen, Take-Home Assessment, Onsite Interviews]
 
 ### Comments
 
@@ -37,42 +39,43 @@ Use the Topics Reference section and fill in the values like [topic 1, topic 2].
 
 ## Topics Reference
 
-| Name | Category |
-| -------------------------------- | ------------------- |
-| Conflict Resolution | Behavioral |
-| Cross-Functional Skills | Behavioral |
-| Execution and Planning | Behavioral |
-| Failure | Behavioral |
-| Humility | Behavioral |
-| Leadership | Behavioral |
-| Motivation and Values | Behavioral |
-| Other Behavioral Topics | Behavioral |
-| Project Experience | Behavioral |
-| Team Work | Behavioral |
-| Arrays | Coding & Algorithms |
-| Bit Manipulation | Coding & Algorithms |
-| Concurrency | Coding & Algorithms |
-| Dynamic Programming | Coding & Algorithms |
-| Graphs | Coding & Algorithms |
-| Linked Lists | Coding & Algorithms |
+| Name                               | Category            |
+| ---------------------------------- | ------------------- |
+| Conflict Resolution                | Behavioral          |
+| Cross-Functional Skills            | Behavioral          |
+| Execution and Planning             | Behavioral          |
+| Failure                            | Behavioral          |
+| Humility                           | Behavioral          |
+| Leadership                         | Behavioral          |
+| Motivation and Values              | Behavioral          |
+| Other Behavioral Topics            | Behavioral          |
+| Project Experience                 | Behavioral          |
+| Team Work                          | Behavioral          |
+| Arrays                             | Coding & Algorithms |
+| Bit Manipulation                   | Coding & Algorithms |
+| Concurrency                        | Coding & Algorithms |
+| Dynamic Programming                | Coding & Algorithms |
+| Graphs                             | Coding & Algorithms |
+| Linked Lists                       | Coding & Algorithms |
 | Other Coding and Algorithms Topics | Coding & Algorithms |
-| Sorting | Coding & Algorithms |
-| Strings | Coding & Algorithms |
-| Trees | Coding & Algorithms |
-| Artificial Intelligence (AI) | Domain-Specific |
-| Backend Engineering | Domain-Specific |
-| Cloud Computing | Domain-Specific |
-| Data Engineering | Domain-Specific |
-| Data Science (DS) | Domain-Specific |
-| Deep Learning (DL) | Domain-Specific |
-| DevOps | Domain-Specific |
-| Engineering Management (EM) | Domain-Specific |
-| Frontend Engineering | Domain-Specific |
-| Full-Stack Engineering | Domain-Specific |
-| Other Domain-Specific Topics | Domain-Specific |
-| Product Management (PM) | Domain-Specific |
-| Project Management (PM) | Domain-Specific |
-| APIs | System Design |
-| Machine Learning | System Design |
-| Object Modeling | System Design |
-| Other System Design Topics | System Design |
+| Sorting                            | Coding & Algorithms |
+| SQL                                | Coding & Algorithms |
+| Strings                            | Coding & Algorithms |
+| Trees                              | Coding & Algorithms |
+| Artificial Intelligence (AI)       | Domain-Specific     |
+| Backend Engineering                | Domain-Specific     |
+| Cloud Computing                    | Domain-Specific     |
+| Data Engineering                   | Domain-Specific     |
+| Data Science (DS)                  | Domain-Specific     |
+| Deep Learning (DL)                 | Domain-Specific     |
+| DevOps                             | Domain-Specific     |
+| Engineering Management (EM)        | Domain-Specific     |
+| Frontend Engineering               | Domain-Specific     |
+| Full-Stack Engineering             | Domain-Specific     |
+| Other Domain-Specific Topics       | Domain-Specific     |
+| Product Management (PM)            | Domain-Specific     |
+| Project Management (PM)            | Domain-Specific     |
+| APIs                               | System Design       |
+| Machine Learning                   | System Design       |
+| Object Modeling                    | System Design       |
+| Other System Design Topics         | System Design       |

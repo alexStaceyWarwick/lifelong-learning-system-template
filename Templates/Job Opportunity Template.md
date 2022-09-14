@@ -1,24 +1,24 @@
 ---
-aliases:
-tags: job
-date_created: {{date}} {{time}}
-date_modified: 
-title: Job Title
-job_title:  
-initial_contact_date: 
-first_interview_date:
-my_excitement: 
-their_excitement: 
-link:
-remote: 
+aliases: 
 compensation:
   base:
   bonus:
   stock:
   sign-on: 
+date_created: {{date}} {{time}}
+date_modified: 
+first_interview_date: 
+initial_contact_date: 
+job_title: 
+last_contact_date: 
+link: 
+my_excitement: 
+remote: 
 stage: 
 status: [Open, Closed]
-last_contact_date:
+tags: job
+their_excitement: 
+title: Job Title
 ---
 
 # Job Title

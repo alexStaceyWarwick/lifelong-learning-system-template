@@ -1,8 +1,8 @@
 ---
-aliases:
-tags: vocabulary
+aliases: 
 date_created: {{date}} {{time}}
 date_modified: 
+tags: vocabulary
 title: Word
 ---
 
