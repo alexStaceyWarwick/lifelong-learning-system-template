@@ -1,13 +1,23 @@
 ---
 aliases:
-date_created: {{date}} {{time}}
+  - 
+date_created: 
 date_modified: 
 tags:
+  - 
+title: Title
 ---
 
 # Title
 
-Body.
+TARGET DECK: General
 
-Sources: 
-- [x]
+START
+[Insert note type here]
+x
+Back: y
+
+END
+
+Sources:
+- x

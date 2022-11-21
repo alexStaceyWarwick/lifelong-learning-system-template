@@ -1,8 +1,10 @@
 ---
 aliases:
-date_created: {{date}} {{time}}
+  - 
+date_created: 
 date_modified: 
-tags: decision
+tags:
+  - decision
 title: Decision
 ---
 

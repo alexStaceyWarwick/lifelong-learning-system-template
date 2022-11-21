@@ -1,9 +1,11 @@
 ---
-aliases: 
-date_created: {{date}} {{time}}
+aliases:
+  - 
+date_created: 
 date_modified: 
-tags: 
-title: 
+tags:
+  - 
+title: Title
 ---
 
 # Title
@@ -12,7 +14,7 @@ title:
 
 - Author:
 - Full Title:
-- Category: #articles or #books
+- Category: #articles or #books or #videos or #tweets 
 - URL:
 
 ## Comments

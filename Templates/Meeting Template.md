@@ -1,11 +1,11 @@
 ---
-aliases: 
-date_created: {{date}} {{time}}
+aliases:
+  - 
+date_created: 
 date_modified: 
 tags:
   - meeting
   - 1x1
-  - networking
 title: Meeting
 ---
 

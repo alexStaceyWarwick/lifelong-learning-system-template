@@ -1,9 +1,11 @@
 ---
-aliases: 
-date_created: {{date}} {{time}}
+aliases:
+  - 
+date_created: 
 date_modified: 
-tags: daily-note
-title: 
+tags:
+  - daily-note
+title: {{date:YYYY-MM-DD}}
 ---
 
 # {{date:YYYY-MM-DD}}
@@ -14,12 +16,11 @@ There are approximately 1,000 minutes in a 16-hour day. (Source: [Wait But Why](
 - How many of these blocks are you putting towards improving your future, and how many are just to be enjoyed?
 - How many are used to create something, and how many are used to consume something?
 - How many blocks are focused on your body, how many on your mind, and how many on neither in particular?
-- Which are your favorite blocks of the day, and which are your least favorite?
+- Which are your favorite blocks of the day and your least favorite?
 - Which blocks should be treated as non-negotiable in their labeled purpose, and which should be more flexible?
 
 ## Top Priorities
 
-My top priorities today are:
 1. One
 2. Two
 3. Three
@@ -40,6 +41,7 @@ My top priorities today are:
 not done
 due before {{date:YYYY-MM-DD}}
 path does not include templates
+sort by due
 ```
 
 ### Due Today
@@ -57,6 +59,7 @@ not done
 due after {{date:YYYY-MM-DD}}
 due before {{date+14d:YYYY-MM-DD}}
 path does not include templates
+sort by due
 ```
 
 ### Done Today
@@ -72,6 +75,7 @@ path does not include templates
 not done
 path does not include templates
 description includes #gtd/waiting  
+sort by due
 ```
 
 ### No Due Date (Tasks)
@@ -81,7 +85,6 @@ not done
 no due date
 path does not include templates
 path does not include projects/202201121253 Learning Plan
-path does not include jobs/Career Opportunities Stages
 path does not include jobs/Career Opportunities Board
 description does not include #gtd/rec 
 description does not include #gtd/waiting 

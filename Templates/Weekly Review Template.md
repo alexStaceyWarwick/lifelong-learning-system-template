@@ -1,8 +1,10 @@
 ---
-aliases: 
-date_created: {{date}} {{time}}
+aliases:
+  - 
+date_created: 
 date_modified: 
-tags: weekly-review
+tags:
+  - weekly-review
 title: Weekly Review
 ---
 
@@ -16,19 +18,13 @@ See the [[202201180901 The weekly review is the cornerstone of the Getting Thing
 
 ## Project Update
 
-Project status update. Highlights for the week, grouped by how I track my time:
-- **Health** (x% of time; y% vs. prior week; z% vs. target of a%)
-- **Learn** (x% of time; y% vs. prior week; z% vs. target of a%)
-- **Network** (x% of time; y% vs. prior week; z% vs. target of a%)
-- **Personal** (x% of time; y% vs. prior week; z% vs. target of a%)
-- **Relax** (x% of time; y% vs. prior week; z% vs. target of a%)
-- **Work** (x% of time; y% vs. prior week; z% vs. target of a%)
-
-## What Went Well
-
-## What to Adjust
-
-## What to Stop
+Project status update. Include what went well, what to adjust, and what to stop. Highlights for the week, grouped by how I track my time:
+- **Health and Rest**
+- **Learn**
+- **Network**
+- **Personal**
+- **Relax**
+- **Work**
 
 ## Gratitude
 
@@ -42,6 +38,7 @@ Use `path:"Literature Notes" -section:(Comments)` to find all literature notes w
 not done
 due before {{date:YYYY-MM-DD}}
 path does not include templates
+sort by due
 ```
 
 ### Due Today
@@ -59,6 +56,7 @@ not done
 due after {{date:YYYY-MM-DD}}
 due before {{date+14d:YYYY-MM-DD}}
 path does not include templates
+sort by due
 ```
 
 ### Done in the Past Two Weeks
@@ -67,6 +65,7 @@ path does not include templates
 done after {{date-14d:YYYY-MM-DD}}
 done before {{date:YYYY-MM-DD}}
 path does not include templates
+sort by due
 ```
 
 ### Waiting For
@@ -75,7 +74,8 @@ path does not include templates
 not done
 no due date
 path does not include templates
-description includes #gtd/waiting  
+description includes #gtd/waiting 
+sort by due
 ```
 
 ### No Due Date (Tasks)
@@ -85,7 +85,6 @@ not done
 no due date
 path does not include templates
 path does not include projects/202201121253 Learning Plan
-path does not include jobs/Career Opportunities Stages
 path does not include jobs/Career Opportunities Board
 description does not include #gtd/rec 
 description does not include #gtd/waiting 

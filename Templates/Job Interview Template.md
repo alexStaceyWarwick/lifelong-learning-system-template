@@ -1,8 +1,8 @@
 ---
-aliases: 
-date_created: {{date}} {{time}}
-date_modified: 
-interview_date: 
+aliases:
+  - 
+date_created:
+date_modified:
 tags:
   - job-interview
   - meeting
@@ -13,19 +13,16 @@ title: Title
 
 ## Interview Specific Preparation
 
-- role:: [[Job Opportunity Template]]
+- role::
 - interviewer::
-- round:: [Preliminary Assessment, Recruiter Phone Screen, Technical Phone Screen, Take-Home Assessment, Onsite Interviews]
+- interview_date::
+- round:: [Preliminary Assessment, Recruiter Phone Screen, Hiring Manager Screen, Technical Phone Screen, Take-Home Assessment, Onsite Interviews]
 
 ### Comments
 
 - Free text for research specific to this interview.
 
 ## Retrospective
-
-Use the Topics Reference section and fill in the values like [topic 1, topic 2].
-
-### Metadata
 
 - topics_covered:: `The topics that were covered in this interview.`
 - topics_confident_in:: `The topics that were both covered in the interview and in which you felt confident.`
@@ -35,7 +32,7 @@ Use the Topics Reference section and fill in the values like [topic 1, topic 2].
 
 ### Comments
 
-- Free text for items like discussing your performance, next steps, writing out your thoughts, and other thoughts.
+- Free text for discussing your performance, next steps, writing out your thoughts, and other ideas.
 
 ## Topics Reference
 
@@ -49,8 +46,8 @@ Use the Topics Reference section and fill in the values like [topic 1, topic 2].
 | Leadership                         | Behavioral          |
 | Motivation and Values              | Behavioral          |
 | Other Behavioral Topics            | Behavioral          |
-| Project Experience                 | Behavioral          |
-| Team Work                          | Behavioral          |
+| Personal Growth                    | Behavioral          |
+| Project Experience (Behavioral)    | Behavioral          |
 | Arrays                             | Coding & Algorithms |
 | Bit Manipulation                   | Coding & Algorithms |
 | Concurrency                        | Coding & Algorithms |
@@ -58,24 +55,19 @@ Use the Topics Reference section and fill in the values like [topic 1, topic 2].
 | Graphs                             | Coding & Algorithms |
 | Linked Lists                       | Coding & Algorithms |
 | Other Coding and Algorithms Topics | Coding & Algorithms |
-| Sorting                            | Coding & Algorithms |
 | SQL                                | Coding & Algorithms |
+| Sorting                            | Coding & Algorithms |
 | Strings                            | Coding & Algorithms |
 | Trees                              | Coding & Algorithms |
-| Artificial Intelligence (AI)       | Domain-Specific     |
-| Backend Engineering                | Domain-Specific     |
-| Cloud Computing                    | Domain-Specific     |
-| Data Engineering                   | Domain-Specific     |
-| Data Science (DS)                  | Domain-Specific     |
-| Deep Learning (DL)                 | Domain-Specific     |
-| DevOps                             | Domain-Specific     |
-| Engineering Management (EM)        | Domain-Specific     |
-| Frontend Engineering               | Domain-Specific     |
-| Full-Stack Engineering             | Domain-Specific     |
-| Other Domain-Specific Topics       | Domain-Specific     |
+| Case                               | Data Science (DS)   |
+| Experimentation                    | Data Science (DS)   |
+| Modeling                           | Data Science (DS)   |
+| Probability                        | Data Science (DS)   |
+| Product Metrics                    | Data Science (DS)   |
+| Project Experience (Technical)     | Data Science (DS)   |
+| Statistics                         | Data Science (DS)   |
+| Take-Home Project                  | Data Science (DS)   |
+| System Design (General)            | Domain-Specific     |
+| System Design (ML)                 | Domain-Specific     |
 | Product Management (PM)            | Domain-Specific     |
 | Project Management (PM)            | Domain-Specific     |
-| APIs                               | System Design       |
-| Machine Learning                   | System Design       |
-| Object Modeling                    | System Design       |
-| Other System Design Topics         | System Design       |

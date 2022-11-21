@@ -1,8 +1,10 @@
 ---
-aliases: 
-date_created: {{date}} {{time}}
+aliases:
+  - 
+date_created: 
 date_modified: 
-tags: vocabulary
+tags:
+  - vocabulary
 title: Word
 ---
 
@@ -16,12 +18,12 @@ Word
 Back: Definition
 
 Pronounced /x-x/.
+
 Include [[Forvo]] pronunciation.
 
 Example sentence with the word *italiziced*.
-Tags: vocabulary
 
 END
 
 Sources:
-- [x]
+- x

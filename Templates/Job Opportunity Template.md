@@ -1,11 +1,12 @@
 ---
-aliases: 
+aliases:
+  - 
 compensation:
-  base:
-  bonus:
-  stock:
-  sign-on: 
-date_created: {{date}} {{time}}
+  - base:
+  - bonus:
+  - stock:
+  - sign-on:
+date_created: 
 date_modified: 
 first_interview_date: 
 initial_contact_date: 
@@ -15,8 +16,11 @@ link:
 my_excitement: 
 remote: 
 stage: 
-status: [Open, Closed]
-tags: job
+status:
+  - Open
+  - Closed
+tags:
+  - job
 their_excitement: 
 title: Job Title
 ---
@@ -27,7 +31,7 @@ title: Job Title
 
 **next_step**:: What is the next step?
 
-Other metadata for internal links. While it’s possible to have links in the frontmatter, those links don’t show up in the graph views:
+Other metadata for internal links. While it is possible to have links in the frontmatter, those links do not show up in the graph views:
 - company::
 - level::
 - location::
@@ -40,6 +44,10 @@ Other metadata for internal links. While it’s possible to have links in the fr
 
 - x
 
-## Comments
+## Communications
+
+- x
+
+## Research
 
 - x
